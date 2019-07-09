@@ -1,1 +1,1 @@
-console.log('From javascript ')
+alert("This is a page created for the Reign fans! Enjoy!");

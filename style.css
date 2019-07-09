@@ -1,11 +1,17 @@
-.text-color {
-  color: red;
+.intro {
+  text-align: center;
+  color: rgb(12, 233, 12);
+  background-color: blueviolet;
 }
 
-.font {
-  font-size: 23px;
+.table {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border:"1";
+  width: 100%;
+  background-color: red;
 }
 
-.list {
-  background-color: blue;
+.borders {
+  border: 3px solid black;
 }
+
