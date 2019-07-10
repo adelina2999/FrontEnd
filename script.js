@@ -1,1 +1,5 @@
-alert("This is a page created for the Reign fans! Enjoy!");
+function myFunction() {
+    alert("Hello World!");
+  }
+  myFunction()
+  ;
