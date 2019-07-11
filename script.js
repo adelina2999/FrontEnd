@@ -1,1 +1,4 @@
-console.log('From javascript ')
+function myFunction() {
+    alert("Hello World!");
+  }
+  myFunction();
