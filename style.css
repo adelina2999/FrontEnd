@@ -6,6 +6,7 @@
 
 .table {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border:"1";
   width: 100%;
   background-color: red;
 }
@@ -24,4 +25,8 @@
   background-color: #4CAF50;
   color: white;
   text-align: center;
+}
+
+.p {
+  color: white;
 }
