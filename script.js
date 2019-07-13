@@ -78,3 +78,8 @@ alert(fruits);*/ //Use the splice() method to remove "Orange" and "Apple" from f
 var boys = ["Emil", "Tobias", "Linus"];
 var children = girls.concat(boys);
 alert(children);*/ //Use the concat() method to concatenate girls and boys.
+
+/*var fruits = [" Banana", " Orange", " Apple", " Kiwi"];
+fruits.sort();
+alert(fruits);*/ //Use the correct Array method to sort the fruits array alphabetically.
+
